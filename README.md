@@ -1,0 +1,2 @@
+# Resourcepack
+Textura para Pixelmon
